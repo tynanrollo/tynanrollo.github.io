@@ -1,0 +1,17 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength",
+    "hide_images",
+    "wide-view",
+    "banner_update",
+    "css_properties_hide",
+    "image-resize",
+    "header_spacing",
+    "custom-rainbow-colors",
+    "background-image"
+  ],
+  "theme": "obsidian",
+  "baseFontSizeAction": false
+}

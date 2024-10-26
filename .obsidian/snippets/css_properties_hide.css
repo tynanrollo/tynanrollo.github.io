@@ -1,0 +1,10 @@
+/* remove small gap from the properties container */
+.metadata-container {
+    margin-block-end: 0px;
+}
+
+/* hide properties view in reading mode */
+body {
+    --metadata-display-reading: none;
+    /*--metadata-display-editing: none; */ 
+}

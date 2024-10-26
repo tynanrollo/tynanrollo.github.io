@@ -1,0 +1,19 @@
+.published-container {
+  --page-width: 800px;
+  --page-side-padding: 48px;
+  
+  /* ... CSS variables for Publish that do not change when light or dark mode is enabled. They sometimes link to color variables in .theme-light or .theme-dark */
+}
+
+.theme-light {
+  --background-primary: #ebf2ff;
+  --h1-color: #000000;
+ 
+  /* ... CSS color variables for when light mode is enabled */
+}
+.theme-dark {
+  --background-primary: #143d47;
+  --h1-color: #ffffff;
+  
+  /* ... CSS color variables for when dark mode is enabled */
+}

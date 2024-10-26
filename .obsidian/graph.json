@@ -1,0 +1,121 @@
+{
+  "collapse-filter": false,
+  "search": "path:\"Noli's Tricktionary\" ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#unicycle/flatland  ",
+      "color": {
+        "a": 1,
+        "rgb": 5422560
+      }
+    },
+    {
+      "query": "tag:#unicycle/freestyle  ",
+      "color": {
+        "a": 1,
+        "rgb": 14718802
+      }
+    },
+    {
+      "query": "tag:#unicycle/general  ",
+      "color": {
+        "a": 1,
+        "rgb": 8147680
+      }
+    },
+    {
+      "query": "tag:#unicycle/street  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#rev  ",
+      "color": {
+        "a": 1,
+        "rgb": 5815263
+      }
+    },
+    {
+      "query": "tag:#spin",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#grab  ",
+      "color": {
+        "a": 1,
+        "rgb": 14635857
+      }
+    },
+    {
+      "query": "tag:#grind  ",
+      "color": {
+        "a": 1,
+        "rgb": 14570576
+      }
+    },
+    {
+      "query": "tag:#jam  ",
+      "color": {
+        "a": 1,
+        "rgb": 6142430
+      }
+    },
+    {
+      "query": "tag:#roll  ",
+      "color": {
+        "a": 1,
+        "rgb": 6469597
+      }
+    },
+    {
+      "query": "tag:#walk  ",
+      "color": {
+        "a": 1,
+        "rgb": 14588502
+      }
+    },
+    {
+      "query": "tag:#coast  ",
+      "color": {
+        "a": 1,
+        "rgb": 14458202
+      }
+    },
+    {
+      "query": "tag:#wrap  ",
+      "color": {
+        "a": 1,
+        "rgb": 6142430
+      }
+    },
+    {
+      "query": "tag:#basic  ",
+      "color": {
+        "a": 1,
+        "rgb": 8147680
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 0.80025862705978,
+  "lineSizeMultiplier": 0.7125,
+  "collapse-forces": false,
+  "centerStrength": 0.677307322840464,
+  "repelStrength": 13.4500849774625,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.5872853223371399,
+  "close": true
+}
