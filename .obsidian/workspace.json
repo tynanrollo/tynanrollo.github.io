@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Uni Bible.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uni Bible"
+              "title": "index"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Uni Bible.md"
+                "file": "docs/index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Uni Bible"
+              "title": "Outline of index"
             }
           }
         ],
@@ -158,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Uni Bible.md",
+                "file": "docs/index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,7 +215,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Uni Bible"
+              "title": "Graph of index"
             }
           }
         ]
@@ -239,18 +239,29 @@
   },
   "active": "04352c2965bc8cdc",
   "lastOpenFiles": [
-    "docs/Resources/Unicycling Resources.md",
     "docs/Riding Disciplines.md",
+    "docs/index.md",
+    "docs/Uni Bible.md",
+    "docs/CPUC.md",
+    "docs/Pasted image 20240625195343.png",
+    "docs/Pasted image 20240625194826.png",
+    "docs/Pasted image 20240625193853.png",
+    "docs/Pasted image 20240625193349.png",
+    "docs/Pasted image 20240625193050.png",
+    "docs/General Banner.png",
+    "docs/Freestyle Banner.png",
+    "docs/flatland banner.png",
+    "docs/Flatland and Street Banner.png",
+    "docs/favicon-196x196.png",
+    "README.md",
+    "docs/Features/Mermaid Diagrams.md",
+    "docs/Features/LaTeX Math Support.md",
+    "docs/Resources/Unicycling Resources.md",
     "docs/Uni Bible/Test Tricktionary.md",
     "docs/Uni Bible/skills/Ride in a figure eight.md",
     "docs/Uni Bible/Freestyle Unicycle Tricks.md",
     "docs/Uni Bible/Flatland Unicycle Tricks.md",
-    "docs/Uni Bible.md",
-    "docs/CPUC.md",
     "docs/Uni Bible/skills/Backwards riding.md",
-    "docs/Uni Bible/Uni-8.png",
-    "docs/Uni Bible/Uni -9.png",
-    "Uni Bible-8.png",
     "Noli's Tricktionary/Backwards coasting.md",
     "Unicycling Organizations.md",
     "Noli's Tricktionary/Coasting.md",
@@ -260,25 +271,14 @@
     "Noli's Tricktionary/donkey kick.md",
     "docs/Uni Bible/General Unicycle Tricks.md",
     "docs/Uni Bible/skills/Body varial mount.md",
-    "Uni Bible-9.png",
-    "Uni Bible-7.png",
     "Noli's Tricktionary/Riding.md",
     "Noli's Tricktionary/Vanflip.md",
     "Noli's Tricktionary/one footed coasting.md",
     "Noli's Tricktionary/Stutter Flip.md",
-    "Noli's Tricktionary/one foot coast.md",
-    "Noli's Tricktionary/90 unispin.md",
     "Noli's Tricktionary/Tricktionary.csv",
     "Noli's Tricktionary/Tricktionary1.csv",
-    "docs/Uni Bible/skills/90 unispin.md",
-    "Noli's Tricktionary/Full out side spin.md",
     "Noli's Tricktionary/Tricktionary3.csv",
     "Noli's Tricktionary/CEEEF930",
-    "Uni Bible-6.png",
-    "Uni Bible-5.png",
-    "Uni Bible-4.png",
-    "Uni Bible-3.png",
-    "Uni Bible-2.png",
     "publish.css",
     "theme.css",
     "Noli's Tricktionary/tricktionary_csv2md.m",
