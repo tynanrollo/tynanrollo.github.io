@@ -9,6 +9,6 @@ prereq:
   - "[[one foot idling]]"
   - "[[Backwards riding]]"
 optional-prereq:
-  - "[[docs/Uni Bible/skills/One foot coast]]"
+  - "[[Resources/Uni Bible/skills/One foot coast]]"
 image: 
 ---

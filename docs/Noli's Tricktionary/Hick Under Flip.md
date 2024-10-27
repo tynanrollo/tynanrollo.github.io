@@ -15,7 +15,7 @@ notes:
 ---
 Alternate Name: hick under
 *Invented by ?*
-Prerequisite Tricks: [[docs/Noli's Tricktionary/180 Unispin]], [[Under Flip]]
+Prerequisite Tricks: [[Noli's Tricktionary/180 Unispin]], [[Under Flip]]
 
 ### Definition
 180 unispin + underflip

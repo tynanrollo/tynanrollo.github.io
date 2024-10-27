@@ -37,7 +37,7 @@ The graph in the picture above is what I could come up with off the top of my he
 
 ## Progress so far
 
-Populated every trick from [Noli's Tricktionary Excel Spreadsheet](https://docs.google.com/spreadsheets/d/1MkBw37AB-pdIh4j6a76rBraM02kYZacu4rtGyOrLdh8/edit?gid=0#gid=0) into this website as individual files that can be searched and clicked, including embedded videos. Check out the [[docs/Noli's Tricktionary/Brill Whip|Brill Whip]] page as an example. 
+Populated every trick from [Noli's Tricktionary Excel Spreadsheet](https://docs.google.com/spreadsheets/d/1MkBw37AB-pdIh4j6a76rBraM02kYZacu4rtGyOrLdh8/edit?gid=0#gid=0) into this website as individual files that can be searched and clicked, including embedded videos. Check out the [[Noli's Tricktionary/Brill Whip|Brill Whip]] page as an example. 
 ![[Uni Bible-8.png]]
 
 Notice that linking the Brill Whip page to this home page added a link in the interactive graph view. Feel free to drag and play around with it (top right of the screen). Clicking the icon will take you to the complete graph view. Additionally, each trick now has a local graph of adjacent tricks, which can be good inspiration/prereq recommendations.

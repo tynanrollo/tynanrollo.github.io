@@ -13,7 +13,7 @@ notes: One of the foundational tricks
 ---
 Alternate Name: Flip
 *Invented by Mike Clark*
-Prerequisite Tricks: [[docs/Noli's Tricktionary/No Footer]]
+Prerequisite Tricks: [[Noli's Tricktionary/No Footer]]
 
 ### Definition
 feet leave pedals, wheel does 1 rotation forwards, feet land on pedals

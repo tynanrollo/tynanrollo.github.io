@@ -15,7 +15,7 @@ notes:
 ---
 Alternate Name: 
 *Invented by Eli Brill in 2012*
-Prerequisite Tricks: [[Superman]], [[docs/Noli's Tricktionary/180 Unispin]]
+Prerequisite Tricks: [[Superman]], [[Noli's Tricktionary/180 Unispin]]
 
 ### Definition
 Superman ending in a 180 unispin

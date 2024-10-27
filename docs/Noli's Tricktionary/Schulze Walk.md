@@ -13,7 +13,7 @@ notes:
 ---
 Alternate Name: 
 *Invented by Max Schulze*
-Prerequisite Tricks: [[docs/Noli's Tricktionary/Rolling Wrap]], [[Rhythm Roll]]
+Prerequisite Tricks: [[Noli's Tricktionary/Rolling Wrap]], [[Rhythm Roll]]
 
 ### Definition
 propell unicycle forward with feet on cranks and seat in back

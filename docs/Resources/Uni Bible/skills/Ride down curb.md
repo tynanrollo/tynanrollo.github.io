@@ -4,6 +4,6 @@ tags:
 discipline:
   - street
 prereq:
-  - "[[docs/Uni Bible/skills/riding]]"
+  - "[[Resources/Uni Bible/skills/riding]]"
 optional-prereq: 
 ---

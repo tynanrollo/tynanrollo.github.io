@@ -15,7 +15,7 @@ notes:
 ---
 Alternate Name: hick over
 *Invented by ?*
-Prerequisite Tricks: [[docs/Noli's Tricktionary/180 Unispin]], [[Over Flip]]
+Prerequisite Tricks: [[Noli's Tricktionary/180 Unispin]], [[Over Flip]]
 
 ### Definition
 180 unispin + overtflip

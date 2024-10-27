@@ -1,10 +1,11 @@
 ---
 tags:
   - unicycle/freestyle
+  - unicycle/general
 discipline:
   - freestyle
+  - general
 prereq:
-  - "[[docs/Uni Bible/skills/Idling]]"
-  - "[[one foot idling]]"
+  - "[[Resources/Uni Bible/skills/riding]]"
 optional-prereq: 
 ---

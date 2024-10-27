@@ -13,7 +13,7 @@ notes:
 ---
 Alternate Name: Thunder Flip
 *Invented by ?*
-Prerequisite Tricks: [[docs/Noli's Tricktionary/No Footer]]
+Prerequisite Tricks: [[Noli's Tricktionary/No Footer]]
 
 ### Definition
 feet leave the pedals, while the unicycle wheel is in mid-air, the rider's back foot kicks the backward pedal causing the wheel to do one backward revolution, feet land on pedals

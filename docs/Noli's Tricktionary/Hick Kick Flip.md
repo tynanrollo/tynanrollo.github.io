@@ -15,7 +15,7 @@ notes:
 ---
 Alternate Name: Kick Flip
 *Invented by ?*
-Prerequisite Tricks: [[docs/Noli's Tricktionary/180 Unispin]]
+Prerequisite Tricks: [[Noli's Tricktionary/180 Unispin]]
 
 ### Definition
 Hickflip but the wheel rotation speed is produced by a kick of the tire

@@ -13,7 +13,7 @@ notes:
 ---
 Alternate Name: 
 *Invented by ?*
-Prerequisite Tricks: [[docs/Noli's Tricktionary/No Footer]]
+Prerequisite Tricks: [[Noli's Tricktionary/No Footer]]
 
 ### Definition
 Jump with speed and lead the uni rolling on the ground until you fall down back on it

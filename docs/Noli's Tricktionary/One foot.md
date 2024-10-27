@@ -15,7 +15,7 @@ notes:
 ---
 Alternate Name: One footed riding
 *Invented by ?*
-Prerequisite Tricks: [[docs/Noli's Tricktionary/Riding]], [[docs/Noli's Tricktionary/Idling]]
+Prerequisite Tricks: [[Noli's Tricktionary/Riding]], [[Noli's Tricktionary/Idling]]
 
 ### Definition
 Ride with one foot

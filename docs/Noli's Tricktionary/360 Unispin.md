@@ -13,7 +13,7 @@ notes:
 ---
 Alternate Name: 360, 3 Spin
 *Invented by ?*
-Prerequisite Tricks: [[docs/Noli's Tricktionary/180 Unispin]]
+Prerequisite Tricks: [[Noli's Tricktionary/180 Unispin]]
 
 ### Definition
 feet leave pedals, unicycle turns 360 degrees relative to ground, feet land on pedals

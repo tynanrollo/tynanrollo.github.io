@@ -10,6 +10,6 @@ prereq:
   - "[[Seat in front hopping]]"
 optional-prereq:
   - "[[180 unispin mount]]"
-  - "[[docs/Uni Bible/skills/90 unispin]]"
+  - "[[Resources/Uni Bible/skills/90 unispin]]"
 image: 
 ---

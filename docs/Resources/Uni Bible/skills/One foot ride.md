@@ -4,8 +4,7 @@ tags:
 discipline:
   - freestyle
 prereq:
-  - "[[Free mount]]"
-  - "[[docs/Uni Bible/skills/riding]]"
+  - "[[Resources/Uni Bible/skills/Idling]]"
+  - "[[one foot idling]]"
 optional-prereq: 
-image: 
 ---

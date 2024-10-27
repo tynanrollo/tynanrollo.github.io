@@ -6,8 +6,8 @@ discipline:
   - flatland
   - street
 prereq:
-  - "[[docs/Uni Bible/skills/No footer]]"
-  - "[[docs/Uni Bible/skills/zero plant]]"
+  - "[[Resources/Uni Bible/skills/No footer]]"
+  - "[[Resources/Uni Bible/skills/zero plant]]"
   - "[[]]"
   - "[[aerials]]"
 optional-prereq:

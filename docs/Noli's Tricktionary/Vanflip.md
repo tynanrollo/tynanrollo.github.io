@@ -13,7 +13,7 @@ notes:
 ---
 Alternate Name: 
 *Invented by ?*
-Prerequisite Tricks: [[docs/Noli's Tricktionary/No Footer]]
+Prerequisite Tricks: [[Noli's Tricktionary/No Footer]]
 
 ### Definition
 riding seat in, feet leave pedals, one foot comes forward and pushes the tire, wheel flips once, land back on pedals

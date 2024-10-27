@@ -13,7 +13,7 @@ notes:
 ---
 Alternate Name: 
 *Invented by Christian Brink Westergaard in 2012*
-Prerequisite Tricks: [[Back tire grab]], [[docs/Noli's Tricktionary/180 Unispin]]
+Prerequisite Tricks: [[Back tire grab]], [[Noli's Tricktionary/180 Unispin]]
 
 ### Definition
 rear tire grab followed by a unispin

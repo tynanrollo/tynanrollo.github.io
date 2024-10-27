@@ -13,7 +13,7 @@ notes:
 ---
 Alternate Name: 
 *Invented by ?*
-Prerequisite Tricks: [[docs/Noli's Tricktionary/180 Unispin]]
+Prerequisite Tricks: [[Noli's Tricktionary/180 Unispin]]
 
 ### Definition
 180 unispin without using your hands (seat in to seat in)

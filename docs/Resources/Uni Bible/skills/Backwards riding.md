@@ -4,8 +4,8 @@ tags:
 discipline:
   - general
 prereq:
-  - "[[docs/Uni Bible/skills/riding]]"
+  - "[[Resources/Uni Bible/skills/riding]]"
 optional-prereq:
-  - "[[docs/Uni Bible/skills/Idling]]"
+  - "[[Resources/Uni Bible/skills/Idling]]"
   - "[[one foot idling]]"
 ---

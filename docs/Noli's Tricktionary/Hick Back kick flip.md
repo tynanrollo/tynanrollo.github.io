@@ -15,7 +15,7 @@ notes:
 ---
 Alternate Name: hick back kick
 *Invented by ?*
-Prerequisite Tricks: [[docs/Noli's Tricktionary/180 Unispin]]
+Prerequisite Tricks: [[Noli's Tricktionary/180 Unispin]]
 
 ### Definition
 180 unispin while kicking the tire to do a back flip

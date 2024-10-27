@@ -15,7 +15,7 @@ notes:
 ---
 Alternate Name: sex change back
 *Invented by ?*
-Prerequisite Tricks: [[hick back flip]]
+Prerequisite Tricks: [[Noli's Tricktionary/hick back flip|Hick Back Flip]]
 
 ### Definition
 Sex change with backwards wheel rotation

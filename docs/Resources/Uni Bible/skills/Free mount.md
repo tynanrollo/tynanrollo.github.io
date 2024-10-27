@@ -5,5 +5,5 @@ discipline:
   - general
 prereq: 
 optional-prereq:
-  - "[[docs/Uni Bible/skills/riding]]"
+  - "[[Resources/Uni Bible/skills/riding]]"
 ---

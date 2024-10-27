@@ -13,7 +13,7 @@ notes:
 ---
 Alternate Name: 
 *Invented by ?*
-Prerequisite Tricks: [[docs/Noli's Tricktionary/90 unispin]]
+Prerequisite Tricks: [[Noli's Tricktionary/90 unispin]]
 
 ### Definition
 Spin the unicycle 270 degrees, land on unicycle (either from pedals up to tire, or, from tire down to pedals)

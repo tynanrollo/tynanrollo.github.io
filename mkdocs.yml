@@ -3,6 +3,8 @@ site_url: https://tynanrollo.github.io  # Replace with your actual site URL
 
 theme:
     name: 'material'
+    features:
+      - navigation.tabs
     palette:
 
     # Light mode

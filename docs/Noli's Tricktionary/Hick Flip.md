@@ -15,7 +15,7 @@ notes: Shaun Johanneson landed the trick first, but after a friendly competition
 ---
 Alternate Name: hick, inflip
 *Invented by Shaun Johanneson(CHECK NOTE)*
-Prerequisite Tricks: [[docs/Noli's Tricktionary/180 Unispin]], [[Crank Flip]]
+Prerequisite Tricks: [[Noli's Tricktionary/180 Unispin]], [[Crank Flip]]
 
 ### Definition
 180 unispin + crank flip starting and ending seat in front

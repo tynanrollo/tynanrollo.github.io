@@ -5,7 +5,8 @@ discipline:
   - general
 prereq:
   - "[[Hop on (jump) mount]]"
-  - "[[docs/Uni Bible/skills/riding]]"
-optional-prereq: 
+  - "[[Resources/Uni Bible/skills/riding]]"
+optional-prereq:
+  - "[[Backwards riding]]"
 image: 
 ---

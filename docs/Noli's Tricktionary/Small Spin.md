@@ -15,7 +15,7 @@ notes:
 ---
 Alternate Name: 
 *Invented by ?*
-Prerequisite Tricks: [[docs/Noli's Tricktionary/180 Unispin]], [[180 body varial]]
+Prerequisite Tricks: [[Noli's Tricktionary/180 Unispin]], [[180 body varial]]
 
 ### Definition
 180 unispin + 180 body varial in the same direction

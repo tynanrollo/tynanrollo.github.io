@@ -13,7 +13,7 @@ notes:
 ---
 Alternate Name: Super Rolling Wrap
 *Invented by ?*
-Prerequisite Tricks: [[docs/Noli's Tricktionary/Rolling Wrap]], [[Leg Wrap]]
+Prerequisite Tricks: [[Noli's Tricktionary/Rolling Wrap]], [[Leg Wrap]]
 
 ### Definition
 Leg wrap to rolling wrap to leg wrap
