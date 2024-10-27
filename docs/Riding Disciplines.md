@@ -21,7 +21,7 @@
 
 ## Track
 -  Racing across a track for varying distances, sometimes while performing skills
-	![[assets/Pasted image 20240509093520.png|275]] ![[assets/Pasted image 20240509093538.png|275]]
+	![[Pasted image 20240509093520.png|275]] ![[assets/Pasted image 20240509093538.png|275]]
 
 ## Touring
 -   Traveling long distances on the road, typically on a large wheel
