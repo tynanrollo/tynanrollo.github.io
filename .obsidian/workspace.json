@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "10e7a4868ce8da66",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "547fb4a511432158",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f2f16db9577ea7ce",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Noli's Tricktionary/180 Superman.md",
+                "file": "docs/CPUC.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "180 Superman"
+              "title": "CPUC"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Noli's Tricktionary/180 Superman.md"
+                "file": "docs/CPUC.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 180 Superman"
+              "title": "Outline of CPUC"
             }
           }
         ],
@@ -158,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Noli's Tricktionary/180 Superman.md",
+                "file": "docs/CPUC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,7 +215,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 180 Superman"
+              "title": "Graph of CPUC"
             }
           }
         ]
@@ -237,29 +237,35 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f2f16db9577ea7ce",
+  "active": "84c37141b7560979",
   "lastOpenFiles": [
-    "site/feed_json_updated.json",
-    "site/feed_json_created.json",
-    "site/feed_rss_updated.xml",
-    "site/feed_rss_created.xml",
     "site/search/search_index.json",
     "site/search",
-    "site/blog/index.html",
-    "site/blog",
     "site/Uni Bible/skills/zero plant/index.html",
     "site/Uni Bible/skills/zero plant",
     "site/Uni Bible/skills/stand on cranks/index.html",
-    "site/assets/180 Superman.png",
-    "site/Theme/Banners/background1.png",
-    "site/Theme/Banners/banner1.png",
-    "site/Theme/Banners/Unicon Wallpaper.png",
-    "site/Theme/Banners/180 Superman.png",
-    "site/flatland banner.png",
-    "site/Uni Bible.png",
-    "site/Uni Bible-9.png",
-    "site/Uni Bible-8.png",
-    "site/Uni Bible-7.png",
+    "site/Uni Bible/skills/stand on cranks",
+    "site/Uni Bible/skills/seatwrap/index.html",
+    "site/Uni Bible/skills/seatwrap",
+    "site/Uni Bible/skills/riding/index.html",
+    "site/Uni Bible/skills/riding",
+    "site/Uni Bible/skills/one foot idling/index.html",
+    "site/assets/images/favicon.png",
+    "site/assets/logo_red.png",
+    "site/assets/logo_brown.png",
+    "site/assets/logo_blue_04.png",
+    "site/assets/logo_blue_02.png",
+    "site/assets/logo_blue_01.png",
+    "site/assets/logo _blue_03.png",
+    "site/assets/favicon-196x196.png",
+    "site/assets/Unicon_MoodBoard.png",
+    "site/assets/Unicon_ColorScheme_01.png",
+    "docs/blog/index.md",
+    "docs/CPUC.md",
+    "README.md",
+    "docs/Noli's Tricktionary/Brill Whip.md",
+    "Untitled.canvas",
+    "docs/Noli's Tricktionary/180 Superman.md",
     "docs/About.md",
     "docs/How to learn (unicycle) tricks.md",
     "docs/Noli's Tricktionary/360 Unispin.md",
@@ -275,15 +281,10 @@
     "docs/Noli's Tricktionary/X Up.md",
     "docs/Theme/UNICON Icon and Theme.md",
     "docs/Unicycle Buyer's Guide.md",
-    "docs/CPUC.md",
     "Noli's Tricktionary/Brill Whip.md",
     "docs/Noli's Tricktionary/Scuff coast toetwist.md",
     "docs/Noli's Tricktionary/Scoop Flip.md",
     "docs/Noli's Tricktionary/Scissor Side Spin.md",
-    "docs/Noli's Tricktionary/Scissor Flip.md",
-    "docs/Noli's Tricktionary/Seat drop.md",
-    "docs/Noli's Tricktionary/Seat In Front.md",
-    "docs/Noli's Tricktionary/Seat push.md",
-    "docs/Noli's Tricktionary/Seat pivot.md"
+    "docs/Noli's Tricktionary/Scissor Flip.md"
   ]
 }
