@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e33cab5114c3c850",
+        "id": "547fb4a511432158",
         "type": "tabs",
         "children": [
           {
-            "id": "04352c2965bc8cdc",
+            "id": "f2f16db9577ea7ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Uni Bible/Freestyle Unicycle Tricks.md",
+                "file": "docs/Noli's Tricktionary/180 Superman.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Freestyle Unicycle Tricks"
+              "title": "180 Superman"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Uni Bible/Freestyle Unicycle Tricks.md"
+                "file": "docs/Noli's Tricktionary/180 Superman.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Freestyle Unicycle Tricks"
+              "title": "Outline of 180 Superman"
             }
           }
         ],
@@ -158,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Uni Bible/Freestyle Unicycle Tricks.md",
+                "file": "docs/Noli's Tricktionary/180 Superman.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,7 +215,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Freestyle Unicycle Tricks"
+              "title": "Graph of 180 Superman"
             }
           }
         ]
@@ -237,7 +237,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "04352c2965bc8cdc",
+  "active": "f2f16db9577ea7ce",
   "lastOpenFiles": [
     "site/feed_json_updated.json",
     "site/feed_json_created.json",
@@ -251,39 +251,39 @@
     "site/Uni Bible/skills/zero plant",
     "site/Uni Bible/skills/stand on cranks/index.html",
     "site/assets/images/favicon.png",
-    "site/Uni Bible/logo_red.png",
-    "site/Uni Bible/logo_brown.png",
-    "site/Uni Bible/logo_blue_04.png",
-    "site/Uni Bible/logo_blue_02.png",
-    "site/Uni Bible/logo_blue_01.png",
-    "site/Uni Bible/logo _blue_03.png",
-    "site/Uni Bible/Unicon_MoodBoard.png",
-    "site/Uni Bible/Unicon_ColorScheme_01.png",
-    "site/Uni Bible/Unicon Wallpaper.png",
-    "docs/Theme/Uni Bible Banners.md",
-    "docs/blog/posts/hello-world.md",
-    "docs/Riding Disciplines.md",
-    "docs/Uni Bible.md",
+    "site/assets/logo_blue_01.png",
+    "site/assets/logo _blue_03.png",
+    "site/assets/logo_red.png",
+    "site/assets/logo_brown.png",
+    "site/assets/logo_blue_04.png",
+    "site/assets/logo_blue_02.png",
+    "site/assets/favicon-196x196.png",
+    "site/assets/Unicon_MoodBoard.png",
+    "site/assets/Uni Bible.png",
+    "docs/About.md",
+    "docs/How to learn (unicycle) tricks.md",
+    "docs/Noli's Tricktionary/360 Unispin.md",
+    "docs/Noli's Tricktionary/1080 Flip.md",
+    "docs/Noli's Tricktionary/360 flip.md",
+    "docs/Noli's Tricktionary/360 Rev.md",
+    "docs/Noli's Tricktionary/180 Back Flip.md",
+    "docs/Noli's Tricktionary/1080 Unispin.md",
     "docs/index.md",
-    "docs/blog/index.md",
-    "docs/Uni Bible/Test Tricktionary.md",
-    "docs/Theme/UNICON Icon and Theme.md",
-    "docs/Noli_s Tricktionary/X Up 360.md",
-    "docs/Topic 1/Note 1.md",
-    "docs/Topic 1/Note 2.md",
-    "docs/Noli_s Tricktionary/Brill Whip.md",
-    "docs/CPUC.md",
-    "README.md",
-    "docs/Features/Mermaid Diagrams.md",
-    "docs/Features/LaTeX Math Support.md",
+    "docs/Riding Disciplines.md",
     "docs/Resources/Unicycling Resources.md",
-    "docs/Uni Bible/skills/Ride in a figure eight.md",
-    "docs/Uni Bible/Freestyle Unicycle Tricks.md",
-    "docs/Uni Bible/Flatland Unicycle Tricks.md",
-    "docs/Uni Bible/skills/Backwards riding.md",
-    "Noli's Tricktionary/Backwards coasting.md",
-    "Unicycling Organizations.md",
-    "Noli's Tricktionary/Coasting.md",
-    "Noli's Tricktionary/Brill Whip.md"
+    "docs/Noli's Tricktionary/180 Unispin.md",
+    "docs/Noli's Tricktionary/X Up.md",
+    "docs/Theme/UNICON Icon and Theme.md",
+    "docs/Unicycle Buyer's Guide.md",
+    "docs/CPUC.md",
+    "Noli's Tricktionary/Brill Whip.md",
+    "docs/Noli's Tricktionary/Scuff coast toetwist.md",
+    "docs/Noli's Tricktionary/Scoop Flip.md",
+    "docs/Noli's Tricktionary/Scissor Side Spin.md",
+    "docs/Noli's Tricktionary/Scissor Flip.md",
+    "docs/Noli's Tricktionary/Seat drop.md",
+    "docs/Noli's Tricktionary/Seat In Front.md",
+    "docs/Noli's Tricktionary/Seat push.md",
+    "docs/Noli's Tricktionary/Seat pivot.md"
   ]
 }

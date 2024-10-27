@@ -15,7 +15,7 @@ cssclasses:
 ## About the author
 My name is Nakul Mohakar, and I am a flatstyle/street rider from California, USA. I've been unicycling since Sept 19th, 2021 (Almost 3 years as of when I am writing this) when I discovered my college club ([[CPUC]]) at Cal Poly San Luis Obispo. Since then, I have consumed years worth of unicycle YouTube content, attended every possible NAUCC and Muni Weekend, managed the club Instagram, served as CPUC club president in 2023-24, and coordinated the first Memorial Day Unicycle Weekend event in CA.
 
-I would say my signature trick is [[docs/Uni Bible/skills/One foot coast|coasting]], which I continue to refine and will hopefully truly master one day. This had been a dream trick for me since the very beginning, and it has fundamentally shaped by journey thus far. 
+I would say my signature trick is [[Uni Bible/skills/One foot coast|coasting]], which I continue to refine and will hopefully truly master one day. This had been a dream trick for me since the very beginning, and it has fundamentally shaped by journey thus far. 
 
 I couldn't have possibly reached where I am today without help from my fellow club members, local riders, NAUCC/Muni Weekend participants, and the online unicycling community. Hopefully through the Uni Bible, I can give back some of the hype, encouragement, and advice I have received.
 

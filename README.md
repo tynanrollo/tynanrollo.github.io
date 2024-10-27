@@ -1,3 +1,29 @@
+# Welcome to the Uni Bible
+
+This repo uses Github Pages and Obsidian to support publishing Obsidian notes to the web, while also allowing people to create a copy of the Obsidian vault and view it locally
+
+## Contribution guide
+1. Download Obsidian
+2. 
+
+## Dependencies and Environment Setup
+This repo requires a few pieces to work well
+
+python
+mkdocs
+
+Note: if you are using python on a Mac, you will need to setup a virtual environment for dependencies
+
+
+## Development Guide
+
+Run a local copy of the github pages site by running `mkdocs serve`
+
+## Deploying
+
+When you run `mkdocs gh-deploy` the current changes will be pushed up to the `gh-pages` branch
+
+
 # Publish your Obsidian Notes
 
 MkDocs template [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)

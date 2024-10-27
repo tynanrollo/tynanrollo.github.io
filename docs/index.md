@@ -1,19 +1,27 @@
+---
+tags:
+  - unicycle
+banner: "![[Uni Bible Banners.png]]"
+cssclasses:
+  - notitle
+---
 ![[Uni Bible Banners.png]]
 *Brought to you by Nakul Mohakar, Cal Poly Unicycle Club (CPUC), and the unicycle community*
 
 # What is the Uni Bible?
 
-> [!tip] Welcome!
-> Hey! Welcome to the Uni Bible! 
-> I hope you enjoy your stay here, while wandering and exploring inside my unicycle brain. 
-> 
-> I wrote this with the help of my college unicycle club with the intent of gathering our knowledge in an organized, centralized location to pass down to the next generation of student riders. 
-> With support from the unicycling community, including the incredibly talented riders I met at UNICON21, I hope to make this online resource accessible for riders of all skill levels, disciplines, worldwide.
+> !!! TIP "Welcome!"
+>     Hey! Welcome to the Uni Bible! 
+>     
+>     I hope you enjoy your stay here, while wandering and exploring inside my unicycle brain. 
+>     I wrote this with the help of my college unicycle club with the intent of gathering our knowledge in an organized, centralized location to pass down to the next generation of student riders. 
+>     
+>     With support from the unicycling community, including the incredibly talented riders I met at UNICON21, I hope to make this online resource accessible for riders of all skill levels, disciplines, worldwide.
 
-![video link](https://youtu.be/YroRfDt-DhY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YroRfDt-DhY?si=pFqWgj5H9eelKAub" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-> [!warning] HELP NEEDED
-> Taking a few minutes to contribute your unicycling knowledge to the community can go a long way to make this resource more useful and complete. Details included below in the "[[Uni Bible#How you can help|How You Can Help]]" section. 
+> !!! warning "HELP NEEDED"
+>     Taking a few minutes to contribute your unicycling knowledge to the community can go a long way to make this resource more useful and complete. Details included below in the "[[index#How you can help|How You Can Help]]" section. 
 
 ## The Vision
 
@@ -29,7 +37,7 @@ The graph in the picture above is what I could come up with off the top of my he
 
 ## Progress so far
 
-Populated every trick from [Noli's Tricktionary Excel Spreadsheet](https://docs.google.com/spreadsheets/d/1MkBw37AB-pdIh4j6a76rBraM02kYZacu4rtGyOrLdh8/edit?gid=0#gid=0) into this website as individual files that can be searched and clicked, including embedded videos. Check out the [[Noli's Tricktionary/Brill Whip|Brill Whip]] page as an example. 
+Populated every trick from [Noli's Tricktionary Excel Spreadsheet](https://docs.google.com/spreadsheets/d/1MkBw37AB-pdIh4j6a76rBraM02kYZacu4rtGyOrLdh8/edit?gid=0#gid=0) into this website as individual files that can be searched and clicked, including embedded videos. Check out the [[docs/Noli's Tricktionary/Brill Whip|Brill Whip]] page as an example. 
 ![[Uni Bible-8.png]]
 
 Notice that linking the Brill Whip page to this home page added a link in the interactive graph view. Feel free to drag and play around with it (top right of the screen). Clicking the icon will take you to the complete graph view. Additionally, each trick now has a local graph of adjacent tricks, which can be good inspiration/prereq recommendations.
