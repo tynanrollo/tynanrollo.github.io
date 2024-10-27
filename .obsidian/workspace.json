@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Uni Bible/Freestyle Unicycle Tricks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Freestyle Unicycle Tricks"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/Uni Bible/Freestyle Unicycle Tricks.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Freestyle Unicycle Tricks"
             }
           }
         ],
@@ -158,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Uni Bible/Freestyle Unicycle Tricks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,7 +215,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of index"
+              "title": "Graph of Freestyle Unicycle Tricks"
             }
           }
         ]
@@ -239,25 +239,43 @@
   },
   "active": "04352c2965bc8cdc",
   "lastOpenFiles": [
+    "docs/Theme/Uni Bible Banners.md",
+    "docs/blog/posts/hello-world.md",
     "docs/Riding Disciplines.md",
-    "docs/index.md",
     "docs/Uni Bible.md",
+    "site/feed_json_updated.json",
+    "site/feed_json_created.json",
+    "site/feed_rss_updated.xml",
+    "site/feed_rss_created.xml",
+    "site/search/search_index.json",
+    "site/search",
+    "site/blog/index.html",
+    "site/blog",
+    "site/Uni Bible/skills/zero plant/index.html",
+    "site/Uni Bible/skills/zero plant",
+    "site/assets/images/favicon.png",
+    "site/Uni Bible/logo_red.png",
+    "site/Uni Bible/logo_brown.png",
+    "site/Uni Bible/logo_blue_04.png",
+    "site/Uni Bible/logo_blue_02.png",
+    "site/Uni Bible/logo_blue_01.png",
+    "site/Uni Bible/logo _blue_03.png",
+    "site/Uni Bible/Unicon_MoodBoard.png",
+    "site/Uni Bible/Unicon_ColorScheme_01.png",
+    "site/Uni Bible/Unicon Wallpaper.png",
+    "docs/index.md",
+    "docs/blog/index.md",
+    "docs/Uni Bible/Test Tricktionary.md",
+    "docs/Theme/UNICON Icon and Theme.md",
+    "docs/Noli_s Tricktionary/X Up 360.md",
+    "docs/Topic 1/Note 1.md",
+    "docs/Topic 1/Note 2.md",
+    "docs/Noli_s Tricktionary/Brill Whip.md",
     "docs/CPUC.md",
-    "docs/Pasted image 20240625195343.png",
-    "docs/Pasted image 20240625194826.png",
-    "docs/Pasted image 20240625193853.png",
-    "docs/Pasted image 20240625193349.png",
-    "docs/Pasted image 20240625193050.png",
-    "docs/General Banner.png",
-    "docs/Freestyle Banner.png",
-    "docs/flatland banner.png",
-    "docs/Flatland and Street Banner.png",
-    "docs/favicon-196x196.png",
     "README.md",
     "docs/Features/Mermaid Diagrams.md",
     "docs/Features/LaTeX Math Support.md",
     "docs/Resources/Unicycling Resources.md",
-    "docs/Uni Bible/Test Tricktionary.md",
     "docs/Uni Bible/skills/Ride in a figure eight.md",
     "docs/Uni Bible/Freestyle Unicycle Tricks.md",
     "docs/Uni Bible/Flatland Unicycle Tricks.md",
@@ -265,25 +283,6 @@
     "Noli's Tricktionary/Backwards coasting.md",
     "Unicycling Organizations.md",
     "Noli's Tricktionary/Coasting.md",
-    "Noli's Tricktionary/Brill Whip.md",
-    "Noli's Tricktionary/donkey hick.md",
-    "Noli's Tricktionary/donkey trey.md",
-    "Noli's Tricktionary/donkey kick.md",
-    "docs/Uni Bible/General Unicycle Tricks.md",
-    "docs/Uni Bible/skills/Body varial mount.md",
-    "Noli's Tricktionary/Riding.md",
-    "Noli's Tricktionary/Vanflip.md",
-    "Noli's Tricktionary/one footed coasting.md",
-    "Noli's Tricktionary/Stutter Flip.md",
-    "Noli's Tricktionary/Tricktionary.csv",
-    "Noli's Tricktionary/Tricktionary1.csv",
-    "Noli's Tricktionary/Tricktionary3.csv",
-    "Noli's Tricktionary/CEEEF930",
-    "publish.css",
-    "theme.css",
-    "Noli's Tricktionary/tricktionary_csv2md.m",
-    "Noli's Tricktionary/tricktionary_csv2md.asv",
-    "Noli's Tricktionary",
-    "Uni Bible/New folder"
+    "Noli's Tricktionary/Brill Whip.md"
   ]
 }
