@@ -15,9 +15,6 @@
         <link rel="next" href="About/">
       
       
-        <link rel="alternate" type="application/rss+xml" title="RSS feed" href="feed_rss_created.xml">
-        <link rel="alternate" type="application/rss+xml" title="RSS feed of updated content" href="feed_rss_updated.xml">
-      
       <link rel="icon" href="assets/favicon-196x196.png">
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.42">
     
@@ -89,6 +86,8 @@
         <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
       
     
+    
+      <link rel="stylesheet" href="assets/stylesheets/interactive_graph.css">
     
     <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -11133,92 +11132,6 @@
   
 
     
-      
-      
-  
-  
-  
-  
-    
-    
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11" >
-        
-          
-          <label class="md-nav__link" for="__nav_11" id="__nav_11_label" tabindex="0">
-            
-  
-  <span class="md-ellipsis">
-    Blog
-  </span>
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_11_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_11">
-            <span class="md-nav__icon md-icon"></span>
-            Blog
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-    
-  
-  
-    <li class="md-nav__item">
-      <a href="blog/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Blog
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="." class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Archive
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-    
   </ul>
 </nav>
                   </div>
@@ -11319,7 +11232,7 @@ I wrote this with the help of my college unicycle club with the intent of gather
 <blockquote>
 <div class="admonition warning">
 <p class="admonition-title">HELP NEEDED</p>
-<p>Taking a few minutes to contribute your unicycling knowledge to the community can go a long way to make this resource more useful and complete. Details included below in the "<a href="blog/#how-you-can-help">How You Can Help</a>" section. </p>
+<p>Taking a few minutes to contribute your unicycling knowledge to the community can go a long way to make this resource more useful and complete. Details included below in the "<a href="./#how-you-can-help">How You Can Help</a>" section. </p>
 </div>
 </blockquote>
 <h2 id="the-vision">The Vision<a class="headerlink" href="#the-vision" title="Permanent link">&para;</a></h2>
@@ -11416,6 +11329,12 @@ If having trouble seeing the nodes on the graph view, try switching to dark mode
         <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       
         <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+      
+        <script src="https://fastly.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+      
+        <script src="https://fastly.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script>
+      
+        <script src="assets/javascripts/interactive_graph.js"></script>
       
     
   </body>
