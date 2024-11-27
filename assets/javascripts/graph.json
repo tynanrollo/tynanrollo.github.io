@@ -3023,6 +3023,186 @@
       "name": "Zero plant",
       "symbolSize": 0,
       "value": "/Resources/Uni%20Bible/skills/zero%20plant/"
+    },
+    {
+      "id": "504",
+      "name": "Guides",
+      "symbolSize": 3,
+      "value": "/Unicycling%20Convention%20Guide/Guides/"
+    },
+    {
+      "id": "505",
+      "name": "10k/Marathon",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Event%20Guides/10k%20and%20Marathon/"
+    },
+    {
+      "id": "506",
+      "name": "Freestyle",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Event%20Guides/Freestyle/"
+    },
+    {
+      "id": "507",
+      "name": "Generic Event Guide",
+      "symbolSize": 1,
+      "value": "/Unicycling%20Convention%20Guide/Event%20Guides/Generic%20Event%20Guide/"
+    },
+    {
+      "id": "508",
+      "name": "High Jump/Long Jump",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Event%20Guides/High%20Jump%20and%20Long%20Jump/"
+    },
+    {
+      "id": "509",
+      "name": "Hockey & Basketball",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Event%20Guides/Hockey%20and%20Basketball/"
+    },
+    {
+      "id": "510",
+      "name": "Muni",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Event%20Guides/Mountain%20Unicycling%20%28muni%29/"
+    },
+    {
+      "id": "511",
+      "name": "IUF Slalom",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Event%20Guides/Slalom/"
+    },
+    {
+      "id": "512",
+      "name": "Slow Races & Stillstand",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Event%20Guides/Slow%20Races/"
+    },
+    {
+      "id": "513",
+      "name": "Track Racing",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Event%20Guides/Track/"
+    },
+    {
+      "id": "514",
+      "name": "Trials",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Event%20Guides/Trials/"
+    },
+    {
+      "id": "515",
+      "name": "Awards",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Guides/Awards/"
+    },
+    {
+      "id": "516",
+      "name": "Chip Timing",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Guides/Chip%20Timing/"
+    },
+    {
+      "id": "517",
+      "name": "Director Responsibilities",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Guides/Director%20Responsibilities/"
+    },
+    {
+      "id": "518",
+      "name": "Directors",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Guides/Directors/"
+    },
+    {
+      "id": "519",
+      "name": "Event Checklist",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Guides/Event%20Checklist/"
+    },
+    {
+      "id": "520",
+      "name": "NAUCC Host",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Guides/Hosting%20an%20NAUCC/"
+    },
+    {
+      "id": "521",
+      "name": "Opening Ceremonies",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Guides/Opening%20Ceremonies/"
+    },
+    {
+      "id": "522",
+      "name": "Overall Convention Questions",
+      "symbolSize": 2,
+      "value": "/Unicycling%20Convention%20Guide/Guides/Overall/"
+    },
+    {
+      "id": "523",
+      "name": "On-Site Registration",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Guides/Registration/"
+    },
+    {
+      "id": "524",
+      "name": "Roles and responsibilities",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Guides/Roles/"
+    },
+    {
+      "id": "525",
+      "name": "Organizer's Year-in-Advance Timeline",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Guides/Timeline%20and%20Schedule/"
+    },
+    {
+      "id": "526",
+      "name": "Unicon Traditions",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Guides/Unicon%20Traditions/"
+    },
+    {
+      "id": "527",
+      "name": "Workshops",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Guides/Workshops%20and%20Meetings/"
+    },
+    {
+      "id": "528",
+      "name": "General Public",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Other%20Guides/General%20Public/"
+    },
+    {
+      "id": "529",
+      "name": "Medical",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Other%20Guides/Medical/"
+    },
+    {
+      "id": "530",
+      "name": "Sponsors",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Other%20Guides/Sponsors/"
+    },
+    {
+      "id": "531",
+      "name": "Police, Traffic Control, and Emergency Services",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Other%20Guides/Traffic%20Management/"
+    },
+    {
+      "id": "532",
+      "name": "On-Site Vendors",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Other%20Guides/Vendors/"
+    },
+    {
+      "id": "533",
+      "name": "Volunteers",
+      "symbolSize": 0,
+      "value": "/Unicycling%20Convention%20Guide/Other%20Guides/Volunteers/"
     }
   ],
   "links": [
@@ -4297,6 +4477,18 @@
     {
       "source": "432",
       "target": "431"
+    },
+    {
+      "source": "504",
+      "target": "522"
+    },
+    {
+      "source": "504",
+      "target": "507"
+    },
+    {
+      "source": "504",
+      "target": "522"
     }
   ]
 }
